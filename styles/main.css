@@ -6,3 +6,8 @@ body {
   border: 3px solid steelblue; 
   text-align: center; 
 }
+
+footer { 
+  border: 3px solid steelblue;
+  background: steelblue; 
+  color: white; 
